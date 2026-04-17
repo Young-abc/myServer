@@ -2,7 +2,7 @@
   "builds": [
     {
       "src": "api/server.js",
-      "use": "@vercel/node@20.0.0"
+      "use": "@vercel/node"
     }
   ],
   "rewrites": [
