@@ -1,0 +1,6 @@
+{
+  "name": "waimai-api",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
