@@ -1,0 +1,22 @@
+{
+  "goods": [
+    { "id": 1, "name": "香辣鸡腿堡", "price": 18.8, "categoryId": 1, "imgUrl": "https://picsum.photos/200/200?random=1" },
+    { "id": 2, "name": "薯条", "price": 7, "categoryId": 2, "imgUrl": "https://picsum.photos/200/200?random=2" }
+  ],
+  "category": [
+    { "id": 1, "name": "汉堡" },
+    { "id": 2, "name": "小吃" },
+    { "id": 3, "name": "饮品" }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "username": "张三",
+      "phone": "13800138000",
+      "totalPrice": 25.8,
+      "status": 1,
+      "createTime": "2026-04-17 12:00:00"
+    }
+  ],
+  "cart": []
+}
