@@ -2,7 +2,7 @@
   "builds": [
     {
       "src": "api/server.js",
-      "use": "@vercel/node@3.0.23"
+      "use": "@vercel/node@22.14.0"
     }
   ],
   "rewrites": [
